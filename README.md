@@ -1,6 +1,6 @@
 # 📚 Bundle Book Store
 
-**Bundle Book Store** is a full-featured e-commerce web application built with **ASP.NET Core MVC**, designed to provide a seamless and intuitive online shopping experience for book lovers. This project is ideal for learning and showcasing how MVC architecture, Entity Framework Core, and ASP.NET Core Identity come together to power a robust and scalable online store.
+**Bundle Book Store** is a full-featured e-commerce web application built with **ASP.NET Core MVC**, designed to provide a seamless and intuitive online shopping experience for book lovers. 
 
 ---
 
